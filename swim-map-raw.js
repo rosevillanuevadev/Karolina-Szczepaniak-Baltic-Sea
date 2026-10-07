@@ -1,6 +1,6 @@
 // ======= CONFIG =======
 const GPX_URL =
-  "https://raw.githubusercontent.com/rose2023va/Karolina-Szczepaniak-Baltic-Sea/refs/heads/main/Morze%20Emocji%202025%20track%20(2).gpx";
+  "https://raw.githubusercontent.com/rosevillanuevadev/Karolina-Szczepaniak-Baltic-Sea/refs/heads/main/Morze%20Emocji%202025%20track%20(2).gpx";
 const TRACK_COLOR = "blue";
 const FILENAME = "Morze Emocji 2025 track (2).gpx";
 

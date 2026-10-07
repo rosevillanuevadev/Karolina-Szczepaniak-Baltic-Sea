@@ -1,7 +1,7 @@
 /* ================= CONFIG ================= */
 const DATASETS = [
-  { name: "Morze Emocji 2025", url: "https://raw.githubusercontent.com/rose2023va/Karolina-Szczepaniak-Baltic-Sea/refs/heads/main/Morze%20Emocji%202025.csv", color: "red" },
-  { name: "USERDATA_GPX", url: "https://raw.githubusercontent.com/rose2023va/Karolina-Szczepaniak-Baltic-Sea/refs/heads/main/USERDATA_GPX.csv", color: "pink" }
+  { name: "Morze Emocji 2025", url: "https://raw.githubusercontent.com/rosevillanuevadev/Karolina-Szczepaniak-Baltic-Sea/refs/heads/main/Morze%20Emocji%202025.csv", color: "red" },
+  { name: "USERDATA_GPX", url: "https://raw.githubusercontent.com/rosevillanuevadev/Karolina-Szczepaniak-Baltic-Sea/refs/heads/main/USERDATA_GPX.csv", color: "pink" }
 ];
 
 /* ============== HELPERS ============== */
